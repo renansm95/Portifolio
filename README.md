@@ -1,9 +1,7 @@
-# portfolio
+<img width="1440" alt="Captura de Tela 2023-02-16 às 20 30 33" src="https://user-images.githubusercontent.com/125400699/219512235-a304d854-9172-4566-b441-bedc7022624b.png">
+
+
 Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
-
-Olá, Bem vindo ao meu projeto de portfólio.
-
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
 ## Ferramentas utilizadas:
 
