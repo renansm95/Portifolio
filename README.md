@@ -1,4 +1,5 @@
-<img width="1440" alt="Captura de Tela 2023-02-16 às 20 30 33" src="https://user-images.githubusercontent.com/125400699/219512235-a304d854-9172-4566-b441-bedc7022624b.png">
+<img width="1440" alt="Captura de Tela 2023-02-17 às 15 59 47" src="https://user-images.githubusercontent.com/125400699/219761838-566f5f1a-b4d0-4dec-a94e-bd4d8da51f21.png">
+
 
 
 Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
